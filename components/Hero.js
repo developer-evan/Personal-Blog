@@ -12,9 +12,6 @@ export default function Hero() {
                 <h1 className="font-bold text-xl" >A Front-End Engineer</h1>
             </div>
             <div >
-
-
-                
                 <p className="mx-25 ">Front end engineers plan, design, build, and implement the user interface systems of websites, <br />
                     software programs,
                     and web-based applications.<br />
